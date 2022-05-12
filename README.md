@@ -12,4 +12,4 @@ Enlace a [Google](https://www.google.com)
 
 :money_mouth_face::money_mouth_face::money_mouth_face:
 
-[Documentación](DOCS.md)
+[Documentación](DOCS.md/Index.md)
