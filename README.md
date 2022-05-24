@@ -1,5 +1,9 @@
 # IDP-Emilio
 
-Aquí tenemos una guía de instalacion para la práctica: "Despliegue de un servicio de monitorización"
+Aquí tenemos una guía de instalacion para la práctica: 
+
+"Despliegue de un servicio de monitorización"
+
 En mi caso me ha tocado **Icinga**
-[Guía Istalación Icinga](DOCS.md/Index.md)
+
+[Guía Istalación Icinga](Index.md)
