@@ -6,4 +6,4 @@ Aquí tenemos una guía de instalacion para la práctica:
 
 En mi caso me ha tocado **Icinga**
 
-[Guía Istalación Icinga](docs/DOCS.md/Index.md)
+[Guía Istalación Icinga](docs/Index.md)
