@@ -8,81 +8,80 @@ Creamos una máquina virtual en Linux y para asignar el servicio de monitorizaci
 
 Actualizar la máquina.
 
+[Captura](/IMG/2.png)
 
 Descargue e instale la clave del repositorio Icinga2.
 
-[Captura](/IMG/2.png)
+[Captura](/IMG/3.png)
 
 Utilice el siguiente comando para descubrir su nombre de código Ubuntu linux.
 
-[Captura](/IMG/3.png)
+[Captura](/IMG/4.png)
 
 Instalamos el Icinga
 
-[Captura](/IMG/4.png)
+[Captura](/IMG/5.png)
 
 Habilitamos el Icinga2
 
-[Captura](/IMG/5.png)
-
-Instalamos el paquete icinga2-ido-mysql.
-
 [Captura](/IMG/6.png)
 
-
-Habilitar la función ido-mysql del Icinga 2.
+Instalamos el paquete icinga2-ido-mysql.
 
 [Captura](/IMG/7.png)
 
 
-Y debemos escoger el no en la configuración “dbconfig-common”
+Habilitar la función ido-mysql del Icinga 2.
 
 [Captura](/IMG/8.png)
 
-Habilitar la característica ido-mysql.
+
+Y debemos escoger el no en la configuración “dbconfig-common”
 
 [Captura](/IMG/9.png)
+
+Habilitar la característica ido-mysql.
+
+[Captura](/IMG/10.png)
 
 Reiniciar Icinga2 e Instalamos el servicio de base de datos 
 MySQL.
 
-[Captura](/IMG/10.png)
+[Captura](/IMG/11.png)
 
 Acceder al servidor de bases de datos 
 
-[Captura](/IMG/11.png)
+[Captura](/IMG/12.png)
 
 creamos la base de datos y un usuario
 
-[Captura](/IMG/12.png)
+[Captura](/IMG/13.png)
 
 le damos todos los privilegios
 
-[Captura](/IMG/13.png)
+[Captura](/IMG/14.png)
 
 y con el nano modificamos el archivo de configuración ido
 
-[Captura](/IMG/14.png)
+[Captura](/IMG/15.png)
 
 Como instalar la web de icinga2
 
-[Captura](/IMG/15.png)
+[Captura](/IMG/16.png)
 
 e instalamos la página web
 
-[Captura](/IMG/16.png)
+[Captura](/IMG/17.png)
 
 Lanzamos el comando para poder lanzar el token
 
-[Captura](/IMG/17.png)
+[Captura](/IMG/18.png)
 
 ingresamos el token
 
-[Captura](/IMG/18.png)
+[Captura](/IMG/19.png)
 
 realizamos las configuraciones pertinentes
-
-[Captura](/IMG/19.png)
 
 [Captura](/IMG/20.png)
 
@@ -109,15 +108,6 @@ realizamos las configuraciones pertinentes
 [Captura](/IMG/31.png)
 
 [Captura](/IMG/32.png)
-
-
-
-
-
-
-
-
-
 
 
 ## Los recursos de hardware (CPU, RAM, disco duro) de otra máquina virtual (Windows/Linux).
