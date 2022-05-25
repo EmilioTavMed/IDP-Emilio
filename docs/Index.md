@@ -22,6 +22,9 @@ Instalamos el Icinga
 
 [Captura](/IMG/5.png)
 
+Instale los plugins de monitoreo estándar del Icinga2.
+
+
 Habilitamos el Icinga2
 
 [Captura](/IMG/6.png)
