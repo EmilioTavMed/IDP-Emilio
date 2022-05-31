@@ -6,7 +6,7 @@ Creamos una máquina virtual en Linux y para asignar el servicio de monitorizaci
 
 
 
-![Captura](/IMG/1.png)
+![Captura](IMG/1.png)
 
 Actualizar la máquina.
 
