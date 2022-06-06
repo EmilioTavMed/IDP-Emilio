@@ -64,3 +64,13 @@ MySQL.
 - Con el nano modificamos el archivo de configuración ido
 
 ![Captura](IMG/15.png)
+
+**Aclaración**:  *Mi guía continua en estos enlaces*
+
+[Como configurar la base de datos Icinga Web 2](configurar-Icinga-web.md)
+
+[Monitorización del equipo](Recursos.md)
+
+[Servicio de red]()
+
+[Página Web del instituto]()
