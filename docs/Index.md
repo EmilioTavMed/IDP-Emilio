@@ -70,7 +70,3 @@ MySQL.
 [Como configurar la base de datos Icinga Web 2](configurar-Icinga-web.md)
 
 [Monitorización del equipo](Recursos.md)
-
-[Servicio de red]()
-
-[Página Web del instituto]()
